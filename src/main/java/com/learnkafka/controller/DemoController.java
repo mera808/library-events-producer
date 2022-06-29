@@ -13,7 +13,7 @@ public class DemoController {
     @PostMapping("/student")
     public void printData(@RequestBody Student student)
     {
-        System.out.println("name is :"+student.getName());
+        System.out.println("name :"+student.getName());
         System.out.println("id :"+student.getId());
     }
 }
