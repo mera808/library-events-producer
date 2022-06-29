@@ -1,7 +1,7 @@
 package com.learnkafka.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.learnkafka.comain.LibraryEvent;
+import com.learnkafka.domain.LibraryEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
