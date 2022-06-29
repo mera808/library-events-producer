@@ -1,4 +1,4 @@
-package com.learnkafka.comain;
+package com.learnkafka.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
