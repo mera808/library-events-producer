@@ -14,5 +14,6 @@ public class DemoController {
     {
         System.out.println("name :"+student.getName());
         System.out.println("id :"+student.getId());
+        System.out.println(student);
     }
 }
